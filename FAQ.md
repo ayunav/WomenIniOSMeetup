@@ -15,7 +15,7 @@ Sign up for updates about upcoming events via this [form](https://goo.gl/forms/j
 
 ### How do I attend a meetup? 
 
-Apply to join the [iOSoho](http://www.meetup.com/iOSoho/) meetup group and mention Women in iOS meetup in your application [form](https://goo.gl/forms/jd041KA7knCCzeA23). Once approved, you’ll be able to see the list of events and RSVP. 
+Apply to join the [iOSoho](http://www.meetup.com/iOSoho/) meetup group and mention Women in iOS meetup in your application form. Once approved, you’ll be able to see the list of events and RSVP. 
 
 ### I’m interested in speaking at the Women in iOS meetup
 
