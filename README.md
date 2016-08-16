@@ -1,2 +1,2 @@
-# Women in iOS Meetup
+# Women in iOS, iOSoho Meetup
 
