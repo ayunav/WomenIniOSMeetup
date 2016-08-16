@@ -8,7 +8,7 @@ Women in iOS is part of the iOSoho meetup. If you are an iOSoho member already, 
 
 Otherwise, please apply to join iOSoho - [http://www.meetup.com/iOSoho](http://www.meetup.com/iOSoho) (please use your full name). Mention Women in iOS meetup in your application form. Once approved, you’ll be able to see the list of events and RSVP.
 
-### SPEAKERS: 
+### SPEAKERS
 
 **Gemma Barlow, Lead iOS Engineer at Harry's** 
 
