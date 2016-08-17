@@ -12,6 +12,14 @@ Otherwise, please apply to join iOSoho - [http://www.meetup.com/iOSoho](http://w
 
 **Gemma Barlow, Lead iOS Engineer at Harry's** 
 
+**iMessage Apps for Fun and Profit**
+
+iMessage Apps are such a departure from the apps that Gemma has been building the last few years, they have her fascinated. 
+
+This talk will work through several technical examples, illustrating: what iMessage apps can do, the challenges involved, and ideas for convincing someone to pay you to build one (all in Swift). 
+
+[Gemma](https://twitter.com/gemmakbarlow) has been an iOS Developer since 2009 and loves travel, coffee, wine and code, not necessarily in that order. Originally from Melbourne, Australia, she currently calls New York home and spends her professional days writing Swift for [Harry’s](https://www.harrys.com/app). 
+
 &
 
 **Natalie Podrazik, "Body Talk", or watchOS 3** 
