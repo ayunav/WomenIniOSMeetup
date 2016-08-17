@@ -24,9 +24,9 @@ This talk will work through several technical examples, illustrating: what iMess
 
 **Natalie Podrazik, "Body Talk", or watchOS 3** 
 
-Talk: Apple WatchOS and their Apps: What do they do? How do they do things? Let's Find Out! I dove into watchOS 3 and made an app called "Body Talk" to track and export health symptoms and I have lots to say about it. 
+Apple WatchOS and their Apps: What do they do? How do they do things? Let's Find Out! I dove into watchOS 3 and made an app called "Body Talk" to track and export health symptoms and I have lots to say about it. 
 
-Bio: Natalie is an iOS Developer who most recently worked at Byte on the Peach and Byte apps. She also runs [CocoaHeads NYC](http://www.cocoaheadsnyc.org/) and is totally pumped that this Women in iOS group exists. 
+Natalie is an iOS Developer who most recently worked at Byte on the Peach and Byte apps. She also runs [CocoaHeads NYC](http://www.cocoaheadsnyc.org/) and is totally pumped that this Women in iOS group exists. 
 
 ### Who is this meetup for? 
 
