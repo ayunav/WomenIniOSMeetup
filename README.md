@@ -4,7 +4,7 @@ The first Women in iOS meetup is at [Betaworks](https://betaworks.com/) on Septe
 
 ### How do I RSVP? 
 
-Women in iOS is part of the iOSoho meetup. If you are an iOSoho member already, RSVP here: [http://www.meetup.com/iOSoho/events/233132048/](http://www.meetup.com/iOSoho/events/233132048/)
+Women in iOS is part of the iOSoho meetup. If you are already an iOSoho member, RSVP here: [http://www.meetup.com/iOSoho/events/233132048/](http://www.meetup.com/iOSoho/events/233132048/)
 
 Otherwise, please apply to join iOSoho - [http://www.meetup.com/iOSoho](http://www.meetup.com/iOSoho) (please use your full name). Mention Women in iOS meetup in your application form. Once approved, you’ll be able to see the list of events and RSVP.
 
