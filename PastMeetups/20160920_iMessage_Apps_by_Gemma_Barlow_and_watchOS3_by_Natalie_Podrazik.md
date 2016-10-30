@@ -6,6 +6,8 @@
 
 September 20, 6:30 PM, at Betaworks
 
+[http://www.meetup.com/iOSoho/events/233132048/](http://www.meetup.com/iOSoho/events/233132048/)
+
 * * * * * * * * * * * 
 
 ### This is our first Women in iOS meetup under iOSoho umbrella! 🎉 
