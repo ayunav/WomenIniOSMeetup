@@ -8,10 +8,11 @@ Sign up for updates about upcoming events via this [form](https://goo.gl/forms/j
 
 ### Who is this meetup for? 
 
-1. This event targets groups that are underrepresented in the iOS community: women (trans and cis), trans men, and genderqueer folks who are iOS developers. 
-2. Select events may be open to the general public, which will be clearly noted in event descriptions.
-2. Our [Code of Conduct](https://github.com/ayunav/WomenIniOSMeetup) is in effect at all of our events. 
-3. If you have any questions, please message [Ayuna](http://www.meetup.com/iOSoho/members/136388792/), the organizer of the meetup.
+1. Women in iOS is part of the iOSoho meetup. The goal of the meetup is to bring more women and other underrepresented groups into the larger iOS community.
+2. The meetup events are open to everyone but specifically target groups that are underrepresented in the iOS community: women (trans and cis), trans men, and genderqueer folks who are iOS developers. 
+3. Our [Code of Conduct](https://github.com/ayunav/WomenIniOSMeetup) is in effect at all of our events. 
+4. If you have any questions, please message [Ayuna](http://www.meetup.com/iOSoho/members/136388792/), the organizer of the meetup.
+5. [FAQ](https://github.com/ayunav/WomenIniOSMeetup/blob/master/FAQ.md)
 
 ### How do I attend a meetup? 
 
@@ -27,7 +28,7 @@ Please contact Ayuna via this [form](https://goo.gl/forms/jd041KA7knCCzeA23) or 
 
 iOSoho, the largest iOS meetup in NYC, has an audience that is about 90% male. iOSoho has never had women speakers.
 
-The Women in iOS meetup is about creating a safe and comfortable environment for women and other underrepresented groups in the iOS development industry. We understand that, for some, it might be intimidating to attend a meetup where they are the only “other” person in the room. 
+The Women in iOS meetup is about creating a safe and comfortable environment for women and other underrepresented groups in the iOS development industry. We understand that, for some, it might be intimidating to attend a meetup where they could be the only “other” person in the room. 
 
 For example, according to one iOSoho attendee, “when I signed up for my first iOSoho event, frankly, I didn’t want to go. There were 12 women, including me, on that 150 person guest list, and I was scared and intimidated to walk into that room.” 
 
