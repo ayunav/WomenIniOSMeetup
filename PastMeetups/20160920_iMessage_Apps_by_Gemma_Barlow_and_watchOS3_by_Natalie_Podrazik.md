@@ -10,7 +10,7 @@ September 20, 6:30 PM, at Betaworks
 
 * * * * * * * * * * * 
 
-### This is our first Women in iOS meetup under iOSoho umbrella! 🎉 
+**This is our first Women in iOS meetup under iOSoho umbrella!** 🎉 
 
 • This event targets groups that are underrepresented in the iOS community: women (trans and cis), trans men, and genderqueer folks who are iOS developers.
 
