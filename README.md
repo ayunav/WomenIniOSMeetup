@@ -1,7 +1,5 @@
 # Women in iOS, iOSoho Meetup
 
-Sign up for updates about upcoming Women in iOS events: [https://goo.gl/forms/jd041KA7knCCzeA23](https://goo.gl/forms/jd041KA7knCCzeA23) 🎉
-
 List of upcoming events: [http://www.meetup.com/iOSoho](http://www.meetup.com/iOSoho)
 
 ### How do I RSVP? 
