@@ -1,10 +1,8 @@
 # Women in iOS, iOSoho Meetup 
 
+Upcoming events: https://www.meetup.com/iOSoho/
+
 ## FAQ 
-
-### Meetup updates 
-
-Sign up for updates about upcoming events via this [form](https://goo.gl/forms/jd041KA7knCCzeA23).
 
 ### Who is this meetup for? 
 
@@ -22,7 +20,9 @@ Apply to join the [iOSoho](http://www.meetup.com/iOSoho/) meetup group and menti
 
 Great! We’d love to have you. 
 
-Please contact Ayuna via this [form](https://goo.gl/forms/jd041KA7knCCzeA23) or via [meetup](http://www.meetup.com/iOSoho/members/136388792/). 
+Please contact Ayuna via [meetup](http://www.meetup.com/iOSoho/members/136388792/). 
+
+Also, here's the [list of topics](https://docs.google.com/spreadsheets/d/1IVS0wE86SX-K-2_2npTVKUukIJlhU8Z_69aFO_PNjD0/edit?usp=sharing) that the members of the community expressed interest in.  
 
 ### Why do we need to make an event only for women, when we are trying to embrace equality?
 
@@ -33,5 +33,3 @@ The Women in iOS meetup is about creating a safe and comfortable environment for
 For example, according to one iOSoho attendee, “when I signed up for my first iOSoho event, frankly, I didn’t want to go. There were 12 women, including me, on that 150 person guest list, and I was scared and intimidated to walk into that room.” 
 
 Through the Women in iOS meetup, we hope to diversify the iOS community by encouraging  more women and other minority groups to join the larger iOSoho group and to speak at iOSoho.
- 
-
