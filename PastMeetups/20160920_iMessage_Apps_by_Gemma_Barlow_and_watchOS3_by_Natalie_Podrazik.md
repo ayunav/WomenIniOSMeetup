@@ -36,6 +36,8 @@ This talk will work through several technical examples, illustrating: what iMess
 
 [Gemma](https://twitter.com/gemmakbarlow) has been an iOS Developer since 2009 and loves travel, coffee, wine and code, not necessarily in that order. Originally from Melbourne, Australia, she currently calls New York home and spends her professional days writing Swift for [Harry’s](https://www.harrys.com/app). 
 
+Slides: https://www.dropbox.com/sh/7q8wdn6if8vbs7g/AABmvzuUGuI8rAOOUWM-yVVba?dl=0
+
 &
 
 **Natalie Podrazik, "Body Talk", or watchOS 3** 
@@ -46,3 +48,5 @@ Natalie is an iOS Developer who most recently worked at Byte on the Peach and By
 * * * * * * * * * * * 
 
 Sign up for updates about upcoming Women in iOS events: [https://goo.gl/forms/jd041KA7knCCzeA23](https://goo.gl/forms/jd041KA7knCCzeA23)
+
+Slides: https://docs.google.com/presentation/d/1pYjjpUsRigFkT0U3uqtVkl63D0xl5AgrROGN6jGX3Eg/edit?usp=sharing
