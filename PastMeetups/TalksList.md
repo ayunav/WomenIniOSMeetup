@@ -23,16 +23,15 @@
 [5]: https://www.meetup.com/iOSoho/events/234178873/
 [6]: https://github.com/ayunav/WomenIniOSMeetup/blob/master/PastMeetups/20161102_Firebase_Workshop_by_Julianne_Goyena.md
 [7]: https://www.meetup.com/iOSoho/events/235081006/
-[8]: 
+[8]: https://github.com/ayunav/WomenIniOSMeetup/blob/master/PastMeetups/20161122_Maria_Perez_Adobe_%26_Jenny_Chang_GrubHub.md
 [9]: https://www.meetup.com/iOSoho/events/235269311/
-[10]: 
+[10]: https://github.com/ayunav/WomenIniOSMeetup/blob/master/PastMeetups/20161207_Cassandra_Sandquist_%26_Tamar_Nachmany_at_Tumblr.md
 [11]: https://www.meetup.com/iOSoho/events/235625737/
-[12]: 
+[12]: https://github.com/ayunav/WomenIniOSMeetup/blob/master/PastMeetups/20170125_Paola_Mata_BuzzFeed_%26_Carson_Ramsden_ThoughtWorks.md
 [13]: https://www.meetup.com/iOSoho/events/236046539/
-[14]: 
+[14]: https://github.com/ayunav/WomenIniOSMeetup/blob/master/PastMeetups/20170222_Alicia%20Marisal_Core_Data_Workshop.md
 [15]: https://www.meetup.com/iOSoho/events/236046621/
-[16]: 
+[16]: https://github.com/ayunav/WomenIniOSMeetup/blob/master/PastMeetups/20170303_Samantha_John_Hopscotch_%26_Zoufishan_Mehdi_Healthie.md
 [17]: https://www.meetup.com/iOSoho/events/236957792/
-[18]: 
+[18]: https://github.com/ayunav/WomenIniOSMeetup/blob/master/PastMeetups/20170322_Claire_Lynch_Prolific_%26_Julie_Yaunches_Grow_Labs.md
 [19]: https://www.meetup.com/iOSoho/events/236799040/
-
